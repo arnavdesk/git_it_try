@@ -3,4 +3,3 @@ phone
 touchscreen
 
 gorilla glass
-
