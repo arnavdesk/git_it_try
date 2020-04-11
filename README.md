@@ -1,1 +1,2 @@
-#git_it_try
+# git_it_try
+learning git on my own
