@@ -1,1 +1,6 @@
 phone
+
+touchscreen
+
+gorilla glass
+
